@@ -127,7 +127,7 @@ params:
     title: "Neha."
     subtitle: "I am a Bussiness Student."
     content: " Eager to apply my passion for digital marketing and strategic insight to innovate in a dynamic business environment".
-"
+
     image: /images/profile.jpeg
     bottomImage:
       enable: true
@@ -156,9 +156,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      "Currently pursuing a BA Honors in Business Administration, I am simultaneously enriching my practical experience as a Customer Success Representative at Ing Skill Academy. This role allows me to apply my academic knowledge in real-world scenarios, honing my skills in customer relations and business management. My focus is on delivering exceptional customer experiences while developing a strong foundation in business administration."
+      Currently pursuing a BA Honors in Business Administration, I am simultaneously enriching my practical experience as a Customer Success Representative at Ing Skill Academy. This role allows me to apply my academic knowledge in real-world scenarios, honing my skills in customer relations and business management. My focus is on delivering exceptional customer experiences while developing a strong foundation in business administration.
 
-      My focus is on delivering exceptional customer experiences while developing a strong foundation in business administration."
+      My focus is on delivering exceptional customer experiences while developing a strong foundation in business administration.
 
     skills:
       enable: true
