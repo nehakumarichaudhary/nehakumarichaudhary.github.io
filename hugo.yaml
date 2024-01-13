@@ -126,7 +126,8 @@ params:
     intro: "Hi, my name is"
     title: "Neha."
     subtitle: "I am a Bussiness Student."
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    content: " Eager to apply my passion for digital marketing and strategic insight to innovate in a dynamic business environment".
+"
     image: /images/profile.jpeg
     bottomImage:
       enable: true
@@ -155,19 +156,22 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      "Currently pursuing a BA Honors in Business Administration, I am simultaneously enriching my practical experience as a Customer Success Representative at Ing Skill Academy. This role allows me to apply my academic knowledge in real-world scenarios, honing my skills in customer relations and business management. My focus is on delivering exceptional customer experiences while developing a strong foundation in business administration."
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      My focus is on delivering exceptional customer experiences while developing a strong foundation in business administration."
+
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
       items:
-        - "HTML"
-        - "CSS"
-        - "JavaScript"
-        - "React"
-        - "Node"
-        - "Express"
+        - "Google Sheet"
+        - "Word"
+        - "Excel"
+        - "Canva"
+        - "Powerpoint
+        - "Ms Project 2013
+        - "CLMS"
+      
 
   # Experience
   experience:
