@@ -126,7 +126,7 @@ params:
     intro: "Hi, my name is"
     title: "Neha."
     subtitle: "I am a Bussiness Student."
-    content: " Eager to apply my passion for digital marketing and strategic insight to innovate in a dynamic business environment".
+    content: " Eager to apply my passion for digital marketing and strategic insight to innovate in a dynamic business environment."
 
     image: /images/profile.jpeg
     bottomImage:
@@ -168,8 +168,8 @@ params:
         - "Word"
         - "Excel"
         - "Canva"
-        - "Powerpoint
-        - "Ms Project 2013
+        - "Powerpoint"
+        - "Ms Project 2013"
         - "CLMS"
       
 
