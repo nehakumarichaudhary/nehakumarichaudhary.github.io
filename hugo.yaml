@@ -116,9 +116,9 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
-      disableAchievements: false
-      disableContact: false
+      disableProjects: true
+      disableAchievements: true
+      disableContact: true
 
   # Hero
   hero:
