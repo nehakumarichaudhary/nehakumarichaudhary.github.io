@@ -353,9 +353,9 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
+      github: https://github.com/nehakumarichaudhary
       linkedin: https://www.linkedin.com/in/nehajaiswal77/
-      instagram: https://instagram.com
+      instagram: https://www.instagram.com/neha__jaiswal77/
 
   # List pages like blogs and posts
   listPages:
