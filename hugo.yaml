@@ -256,7 +256,7 @@ params:
             - Tempora esse, eaque delectus nulla quo doloribus itaque expedita alias natus optio totam maxime nihil excepturi velit a animi laborum hic similique.
       - title: "Biology Science"
         school:
-          name: "Vishwa Adarsha "
+          name: "Vishwa Adarsha Academy. "
           url: "https://www.vac.edu.np/"
         date: "2017 - 2019"
         GPA: "2.73 out of 4.0"
@@ -278,7 +278,7 @@ params:
           url: "https://www.facebook.com/BLESSITAHARI/"
         GPA: "3.55 out of 4.0"
         featuredLink:
-          enable: false
+          enable: true
           url: "https://example.com"
 
   # Achievements
