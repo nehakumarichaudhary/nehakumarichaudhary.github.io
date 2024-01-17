@@ -180,30 +180,28 @@ params:
     items:
       - job: "Customer Success Representative"
         company: "ING Skill Academy."
-        companyUrl: "https://example.com"
+        companyUrl: "https://ingskill.com/"
         date: "May 2023 - present"
         featuredLink:
           enable: false
           name: "View the project"
           url: "https://example.com"
-        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+        content: |-
+         Dynamic team leader with a proven track record, Boosted student engagement and admisions by 50% in just 6 months, showcasing exceptional operational and team management skills.
 
       - job: "Insurance Agent"
         company: "Sanima Insurance"
-        companyUrl: "https://example.com"
+        companyUrl: "https://sgic.com.np/"
         date: "May 2020 - present"
         featuredLink:
           enable: false
           url: "https://example.com"
         info:
-          enable: true
-          content: I worked as a software developer for more than one year in Amazon.
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
+          enable: false
+          content: Insuranced dozens of long term clients with capital investment,above 4cr.
+        content: |-
+          Insuranced dozens of long term clients with capital investment,above 4cr.
+ 
       - job: "Account Auditor"
         company: "Radhe Shyam Scrape Pasal"
         companyUrl: "Family Business"
@@ -213,12 +211,9 @@ params:
         featuredLink:
           enable: false
           url: "https://example.com"
-        content: |
-          I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-
-          - Lead backend developer for a product.
-          - Created a frontend design for a product.
-
+        content: |-
+          Working as a partime auditor in family business.
+ 
  
   # Education
   education:
