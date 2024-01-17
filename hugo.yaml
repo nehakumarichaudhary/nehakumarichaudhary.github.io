@@ -119,6 +119,8 @@ params:
       disableProjects: true
       disableAchievements: true
       disableContact: true
+      disableBlog: true
+      disableGallery: true
 
   # Hero
   hero:
